@@ -1,0 +1,15 @@
+{
+  "name": "react_node_weather",
+  "version": "1.0",
+  "description": "Full Stack Weather App",
+  "main": "index.js",
+  "repository": "https://github.com/Khmelovsky/react_node_weather",
+  "author": "Andrii Khmelovskyi <a.i.khmelovsky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "create-react-app": "^3.4.1",
+    "express": "^4.17.1",
+    "pg": "^8.3.0"
+  }
+}
